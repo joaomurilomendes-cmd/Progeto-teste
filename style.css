@@ -7,15 +7,15 @@ header{
 background-color: blue;
 align-items: center;
 justify-content:space-between;
-padding: 20px;
+padding: 40px;
 display: flex;
 }
 h1{
 color: brown;
-font-size: 30px;
+font-size: 50px;
 }
 input{
-width: 10px;
+width: 50px;
 
 }
 button{
