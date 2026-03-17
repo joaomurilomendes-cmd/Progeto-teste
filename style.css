@@ -12,14 +12,14 @@ display: flex;
 }
 h1{
 color: brown;
-font-size: 50px;
+font-size: 30px;
 }
 input{
-width: 50px;
-
+width: 400px;
+height: 100px;
 }
 button{
 background-color: #3dfec4;
-width: 50px;
+width: 150px;
 border-radius: 30px;
 }
