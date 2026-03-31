@@ -34,6 +34,7 @@ align-items: center;
 justify-content: space-around;
 margin: 20px;
 width: 90px;
+padding: 100px;
 }
 p{
     width: 400px;
@@ -41,4 +42,10 @@ p{
 img{
     width: 400px;
 }
-section
+section button{
+background-color: chartreuse;
+color: brown;
+height: 100px;
+width: 250px;
+font-size: 30px;
+}
